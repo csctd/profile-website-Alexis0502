@@ -42,3 +42,24 @@ Run `nox`
    ```
 
 this should install a Sphinx environment and build the site, putting the output files in `_build/html`. -->
+
+# Profile Website
+
+Welcome to my profile webiste, Students and Faculty of TD
+<!-- enter your target audience after the comma above -->
+
+Since you're here, you might be: 
+- Curious as to who I am and what I do
+- interested in what pictures I may have
+- What technical backgrounds I have as a student  
+<!-- make a bulleted list of 3 fictional visitors to your site. Include a few detials about them that could impact how you design for them. For each visitor, assign a task or goal they have for visiting your profile website -->
+
+## Design 
+
+It'll be an easy website to navigate allowing the viewer to know what each function does and where it'll take you 
+In my wireframe I made sure to group categories in the same criteria under the same page for a better user experince 
+
+## Accessibility 
+
+I'll make sure It's a neutral color pallet that doesn't interfere with any colorblindness 
+The text will be a font size big enough for people with visual impediments to easily read 
